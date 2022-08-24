@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Emin Demir</h1>
 
-<h3 align="center">I am a Web Developer and I am interested in all things computer related.</h3>
+<h3 align="center">I am a Web Developer and interested in all things computer related.</h3>
 
 <p align="center">
 	<a href="(https://www.linkedin.com/in/emin-demir-b0202b235)">
