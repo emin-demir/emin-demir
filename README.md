@@ -5,7 +5,7 @@
 <h3 align="center">I am a Web Developer and interested in all things computer related.</h3>
 
 <p align="center">
-	<a href="(https://www.linkedin.com/in/emin-demir-b0202b235)">
+	<a href="https://www.linkedin.com/in/emin-demir-b0202b235">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
   <a href="https://github.com/emin-demir">
