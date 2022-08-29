@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=;Welcome+My+GitHub+Page;Thanks+For+Visiting&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 
 <h1 align="center">Hi 👋, I'm Emin Demir</h1>
 
