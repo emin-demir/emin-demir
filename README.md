@@ -64,3 +64,6 @@
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=emin-demir&show_icons=true&theme=buefy&line_height=30" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emin-demir&layout=compact&theme=buefy&line_height=10">
 </p>
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Zneam.png" alt="TryHackMe">
+</p>
