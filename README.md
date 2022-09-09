@@ -24,7 +24,7 @@
 
 <hr>
 
-<img src="./img/computer-love.gif" width="400px" align="right">
+<img src="./img/CodingWithComputer.gif" width="400px" align="right">
 
 - 🔭 I’m currently working on **ETicaretAPI & ETicaretCLient**
 
