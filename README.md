@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **HTML,CSS,JS, Angular, React, C#, OOP, MVC, multi-layered architecture, Onion Architecture**
 
-- 📫 How to reach me **emindemirx0@gmail.com**
+- 📫 How to reach me **emindemirofficial@gmail.com**
 
 
 <hr>
