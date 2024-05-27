@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Emin Demir</h1>
 
-<h3 align="center">I am a Web Developer and interested in all things computer related.</h3>
+<h3 align="center">I am a Web Pentester and interested in all things computer related.</h3>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/emin-demir-b0202b235">
@@ -26,13 +26,13 @@
 
 <img src="./img/CodingWithComputer.gif" width="400px" align="right">
 
-- 🔭 I’m currently working on **ETicaretAPI & ETicaretCLient**
+- 🔭 I’m currently working on **Bug Bounty**
 
-- 🌱 I’m currently learning **Angular and Onion Architecture and multi-layered architecture**
+- 🌱 I’m currently learning **Recon and Web pentesting**
 
-- 👨‍💻 My Portfolio Website [emin-demir.com](http://www.emin-demir.com)
+- 👨‍💻 My Portfolio Website [emin-demir.com](http://www.emin-demir.com) Currently Not Working
 
-- 💬 Ask me about **HTML,CSS,JS, Angular, React, C#, OOP, MVC, multi-layered architecture, Onion Architecture**
+- 💬 Ask me about **HTML,CSS,JS, C#, OOP, MVC, multi-layered architecture, Onion Architecture**
 
 - 📫 How to reach me **emindemirofficial@gmail.com**
 
