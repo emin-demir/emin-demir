@@ -15,23 +15,7 @@
 	</a>
 </p>
 
-
-
-
-<hr>
-
 <img src="./img/CodingWithComputer.gif" width="400px" align="right">
-
-- 🔭 I’m currently working on **Bug Bounty**
-
-- 🌱 I’m currently learning **Recon and Web pentesting**
-
-- 👨‍💻 My Portfolio Website [emin-demir.com](http://www.emin-demir.com) Currently Not Working
-
-- 💬 Ask me about **HTML,CSS,JS, C#, OOP, MVC, multi-layered architecture, Onion Architecture**
-
-- 📫 How to reach me **emindemirofficial@gmail.com**
-
 
 <hr>
 
@@ -40,7 +24,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <hr> 
 
@@ -50,4 +33,5 @@
 </p>
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Zneam.png" alt="TryHackMe">
+<img src="http://www.hackthebox.eu/badge/image/1733810" alt="Hack The Box" width="250">
 </p>
