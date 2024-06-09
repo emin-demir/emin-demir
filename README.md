@@ -15,7 +15,7 @@
 	</a>
 </p>
 
-<img src="./img/CodingWithComputer.gif" width="400px" align="right">
+
 
 <hr>
 
@@ -30,6 +30,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emin-demir&layout=compact&theme=buefy&line_height=10">
+<img src="./img/CodingWithComputer.gif" width="300px" align="right">
 </p>
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Zneam.png" alt="TryHackMe">
